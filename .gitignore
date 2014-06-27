@@ -1,0 +1,5 @@
+*.db
+learning_samples
+*.pyc
+__pycache__
+.idea
